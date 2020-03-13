@@ -3,7 +3,7 @@
 
 ### INFO
 
-This is to try on basic image-classification using ANN-(Artificial Neural Network) or CNN-(Convolutional Neural Network) for classifying cats and dogs. The dataset is taken from [Microsoft cat & dog dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765) 
+This is to try on basic image-classification using Tansfer Learning and CNN-(Convolutional Neural Network) for classifying cats and dogs. The dataset is taken from [Microsoft cat & dog dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765) 
 
 ### Approch
 
