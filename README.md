@@ -1,4 +1,6 @@
-# Dogs-Cats-Img-Classification-
+
+🐶 & 🐱
+# Dogs-Cats-Img-Classification 
 
 
 ### INFO
@@ -14,3 +16,14 @@ This is to try on basic image-classification using Tansfer Learning and CNN-(Con
 3. The arrays of the image which will be stacked on top using NumPy for giving the input to NN-(Neural Network)
 
 4. After Training of the model depending on the statics the fine-tuning of the model will be done or feature engineering for increasing the accuracy of the model 
+
+
+### File Description
+
+#### Data_Preprocessing.py 
+
+
+
+#### Data
+
+This floder contain an sample of test data_set which is maded by [Data_Preprocessing.py](Data_Preprocessing.py)
