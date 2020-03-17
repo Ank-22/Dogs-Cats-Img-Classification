@@ -22,8 +22,27 @@ This is to try on basic image-classification using Tansfer Learning and CNN-(Con
 
 #### Data_Preprocessing.py 
 
+- This script file read images from the location and converts its in numpy array and saves it to.
 
+- This file also spilts the data in train and test for each X and Y 
+
+- The file are made of function so it can be imported and used in other projects
 
 #### Data
 
 This floder contain an sample of test data_set which is maded by [Data_Preprocessing.py](Data_Preprocessing.py)
+
+
+
+
+### Version
+
+V0.0.0 - Intialization of Reppo
+
+V0.0.1 - Deciding Apporach 
+
+V0.1.0 - Made Data_precoressing.py 
+
+V0.1.1 - Made Data_Preprocessing.py in funtional/Modular manner
+
+V0.1.2 - Added Sample Data of X_test and Y_test 
